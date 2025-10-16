@@ -1,0 +1,16 @@
+# OOPs Practice Repository
+
+This repository contains code examples for learning and practicing **Object-Oriented Programming (OOPs)** concepts.  
+It covers all major OOP topics with practical code implementations.
+
+## Topics Covered
+- Type of Constructors /[language]/constructors.js
+- Static Members /[language]/static-members.js
+- Access Modifiers /[language]/access-modifiers.js
+- This Keyword /[language]/this.js
+
+## Purpose
+This repo is intended for personal practice and reference to strengthen understanding of OOP concepts through coding.
+
+## Usage
+Feel free to explore the code, run examples, and modify them to test your understanding.
